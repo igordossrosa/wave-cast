@@ -12,17 +12,19 @@ Projeto de aprendizado, fazendo uso de Grid e Flexbox. Desenvolvido seguindo meu
 
   Leia o QRCode para ir direto ao site:
 <div>
-   <img height="200px" src="assets/QRCode.png"/>
+   <img height="200px" src="src/imagens/QRCode.png"/>
 </div><br>
 
   Layout Mobile
   <div>
     <img height="500px" src="src/imagens/Mobile.png"/>
   </div><br>
+  
   Layout Tablet
   <div>
     <img height="500px" src="src/imagens/Tablet.png"/>
   </div><br>
+  
   Layout Desktop
   <div>
     <img height="500px" src="src/imagens/Desktop.png"/>
