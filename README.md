@@ -15,10 +15,17 @@ Projeto de aprendizado, fazendo uso de Grid e Flexbox. Desenvolvido seguindo meu
    <img height="200px" src="assets/QRCode.png"/>
 </div><br>
 
-  Imagens do Projeto:
+  Layout Mobile
   <div>
-    <img height="400px" src="assets/Home.png"/>
-    <img height="400px" src="assets/Sobre-mim.png"/>
+    <img height="500px" src="src/imagens/Mobile.png"/>
+  </div><br>
+  Layout Tablet
+  <div>
+    <img height="500px" src="src/imagens/Tablet.png"/>
+  </div><br>
+  Layout Desktop
+  <div>
+    <img height="500px" src="src/imagens/Desktop.png"/>
   </div>
   
 ### Contato:
